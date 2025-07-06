@@ -1,6 +1,12 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
+// Import images properly
+import starclinchImage from '../assets/starclinch.svg';
+import cockpitImage from '../assets/cockpit.jpg';
+import pitchbotImage from '../assets/pitchbot.jpg';
+import chaipecharchaImage from '../assets/chaipecharcha.png';
+
 const projects = [
   {
     name: 'StarClinch Official Website',
@@ -11,7 +17,7 @@ const projects = [
     ],
     link: 'https://starclinch.com',
     featured: true,
-    banner: 'src/assets/starclinch.svg'
+    banner: starclinchImage
   },
   {
     name: 'Artist Cockpit',
@@ -21,7 +27,7 @@ const projects = [
        'React', 'JavaScript', 'Tailwind CSS', 'Vite', 'Dnd Kit', 'Radix UI', 'React Hook Form', 'Chart.js', 'TipTap', 'Zod', 'Framer Motion'
     ],
     link: 'https://artist.starclinch.com',
-    banner: 'src/assets/cockpit.jpg'
+    banner: cockpitImage
   },
   {
     name: 'PitchBot Chrome Extension',
@@ -32,7 +38,7 @@ const projects = [
     ],
     link: '',
     featured: false,
-    banner: 'src/assets/pitchbot.jpg'
+    banner: pitchbotImage
   },
   {
     name: 'Chai Pe Charcha - News Portal',
@@ -44,7 +50,7 @@ const projects = [
       'Cloudflare CDN', 'Google Analytics'
     ],
     link: 'https://chaiprcharcha.in',
-    banner: 'src/assets/chaipecharcha.png'
+    banner: chaipecharchaImage
   }
 ];
 
