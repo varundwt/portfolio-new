@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#0f172a"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="256" cy="256" r="230" fill="none" stroke="#1e293b" stroke-width="8"/>
+  
+  <!-- VP text -->
+  <g transform="translate(256, 256) scale(1.2)">
+    <!-- V -->
+    <path d="M-90 -60 L-50 60 L-10 -60" fill="none" stroke="#5eead4" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- P -->
+    <path d="M10 -60 L10 60 M10 -60 C80 -60 80 0 10 0" fill="none" stroke="#5eead4" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Subtle glow effect -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#5eead4" stroke-width="2" stroke-opacity="0.3"/>
+</svg>
