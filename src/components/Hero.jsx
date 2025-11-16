@@ -15,7 +15,7 @@ export default function Hero() {
           Varun Pandey
         </a>
         <a
-          href="https://drive.google.com/file/d/1SKVJ-Omu5CaaMXxTaN7hUv1mOjUAH1FJ/view"
+          href="https://drive.google.com/file/d/1y3G5i9XPWlxPbyV9X-NTHxyf50T8C3MY/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="text-slate-400 hover:text-slate-200 hover:scale-110 transition-all duration-300"
