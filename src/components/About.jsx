@@ -26,8 +26,8 @@ export default function About() {
           </p>
           
           <p className="mb-4 text-sm md:text-base">
-            Previously, I served as a Lead Instructor at <span className='text-white'>Dunagiri Cyberspace</span>, where I mentored over 150 aspiring developers in JavaScript, React, and full-stack best practices, while also developing production-ready apps like <span className='text-white'>Chai Pe Charcha, Starclinch, Artist Cockpit & Pitchbot.</span> 
-          </p>          
+  Previously, I worked as a Freelance Developer, building responsive web applications using <span className='text-white'>React, JavaScript, HTML, and CSS</span>. I developed the frontend of <span className='text-white'>Chai Par Charcha</span>, focused on performance and scalable UI, integrated third-party APIs for dynamic data handling, deployed applications on Vercel and Netlify, and contributed to backend integrations using <span className='text-white'>Node.js</span> and authentication systems.
+</p>         
           <p className='mb-4 text-sm md:text-base'>
             Outside of work, I’m often experimenting with new design-to-code workflows, contributing to side projects, or refining my skills in system design and web performance. When I’m not in front of a screen, you’ll probably find me on a mountain trail, deep in a history book, or enjoying a quiet moment in Dehradun.
           </p>
