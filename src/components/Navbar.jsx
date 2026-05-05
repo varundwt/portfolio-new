@@ -66,7 +66,7 @@ export default function Navbar() {
           <a
             className="inline-flex items-center font-medium leading-tight text-slate-200 text-sm sm:text-base lg:text-lg xl:text-xl group p-1.5 lg:p-2 hover:bg-[#183340] rounded-md transition-all duration-300"
             aria-label="View Full Résumé"
-            href="https://drive.google.com/file/d/1SKVJ-Omu5CaaMXxTaN7hUv1mOjUAH1FJ/view"
+            href="https://drive.google.com/file/d/1ggLaPJ2Y9vmxcTJH6DcNXXH6uoMYgvfp/view?usp=drive_link"
             target="_blank"
             rel="noreferrer noopener"
           >
