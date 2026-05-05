@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
-    role: 'Senior Next.js Developer',
+    role: 'Senior Frontend Developer (Team Lead)',
     company: 'StarClinch',
-    period: 'Sep 2024 — Present',
+    period: 'Sep 2024 — May 2026',
     description:
       'Leading frontend development of the Artist Cockpit at StarClinch using Next.js, React, and Tailwind CSS. Improved performance by 40% with Vite bundling, implemented secure REST/GraphQL APIs, and built cross-platform mobile apps using Capacitor.js. Integrated analytics, multilingual SEO, and data caching via React Query. Advocated accessibility and code quality using ESLint, Prettier, and modular UI design.',
     technologies: [
@@ -14,11 +14,11 @@ const experiences = [
     link: 'https://www.starclinch.com'
   },
   {
-    role: 'Web Development Lead Instructor',
-    company: 'Dunagiri Cybespace',
-    period: 'Aug 2021 — Sep 2024',
+    role: 'Freelance Frontend Developer',
+    company: 'Self Employed',
+    period: 'Feb 2023 — Aug 2024',
     description:
-      'Taught and mentored 150+ students in modern frontend technologies including React.js, JavaScript, and Next.js. Developed full-stack projects like Styler and Blaze News, emphasizing optimization and clean UI architecture. Established deployment workflows using Netlify and Vercel, and enforced Git-based version control and CI/CD best practices.',
+      'Developed responsive web applications using React.js, JavaScript, HTML, and CSS, including building the frontend of Chai Par Charcha with a focus on performance and responsive UI; integrated third-party APIs for dynamic data rendering, deployed applications on Vercel and Netlify with optimized performance, and supported backend integrations involving Node.js APIs and authentication.',
     technologies: [
       'React.js', 'JavaScript', 'HTML5', 'CSS3', 'Redux', 'Netlify', 'Vercel', 'MongoDB', 'Git', 'Jest', 'React Testing Library'
     ],
